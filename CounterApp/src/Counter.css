@@ -1,0 +1,43 @@
+.counter-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  
+}
+
+*{
+  background-color: black;
+  color: white;
+}
+
+button {
+background-color: #007bff;
+color: white;
+padding: 10px 20px;
+margin: 5px;
+border: none;
+cursor: pointer;
+font-size: 16px;
+border-radius: 5px;
+transition: 0.3s;
+
+}
+button:hover {
+  border-color: #646cff;
+  opacity: 0.8;
+}
+
+.increment{
+  background-color: green;
+}
+.decrement{
+  background-color: red;
+}
+.double{
+  background-color: pink;
+}
+.reset{
+  background-color: blue;
+}
