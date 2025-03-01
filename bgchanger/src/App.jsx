@@ -36,10 +36,10 @@ style={{backgroundColor:"green"}}
 >Green</button>
 
 <button
-onClick={()=>setColor("pink")}
+onClick={()=>setColor("blue")}
 className='outline-none px-4 py-1 rounded-full text-white shadow-small'
-style={{backgroundColor:"pink"}}
->Pink</button>
+style={{backgroundColor:"blue"}}
+>Blue</button>
 
 <button
 onClick={()=>setColor("black")}
