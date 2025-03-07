@@ -1,2 +1,2 @@
-# Basic-react
-this is for my basic react practice and small react projects
+React
+This is for my basic react practice and react projects
